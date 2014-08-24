@@ -3,8 +3,11 @@ GettingAndCleaningData
 
 Coursera-GettingAndCleaningDataProject
 
-Assumptions code is run in a directory where there is a folder named test with an x_test file in it.
-Assumptions code is run in a directory where there is a folder named test with an x_train file in it.
+The following code will go through a test and training folder to merge sensor data from a smartphone. The sensor data tries to determine what action the user was doing.
+The final product will be run_analysis.txt that displays the sensor data and the action the user was doing.
+
+Assumptions code is run in a directory where there is a folder named test with an x_test and subject_test file in it.
+Assumptions code is run in a directory where there is a folder named test with an x_train and subject_train file in it.
 run_analysis.txt will be created in folder where run_analysis.R is run.
 
 run_analysis.R Script that does the following:
