@@ -5,6 +5,7 @@ Coursera-GettingAndCleaningDataProject
 
 Assumptions code is run in a directory where there is a folder named test with an x_test file in it.
 Assumptions code is run in a directory where there is a folder named test with an x_train file in it.
+run_analysis.txt will be created in folder where run_analysis.R is run.
 
 run_analysis.R Script that does the following:
   1. Merges the training and test sets into one data set.
